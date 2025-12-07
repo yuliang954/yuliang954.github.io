@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Liang / UC San Diego"
+title                    : "Yu Liang / SNU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -28,7 +28,7 @@ author:
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : |
-                     UC San Diego
+                     Seoul National University
   uri              : # URL
   email            : "yul257@ucsd.edu" 
 

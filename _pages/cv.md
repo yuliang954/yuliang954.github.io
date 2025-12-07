@@ -18,7 +18,9 @@ Education
 
 Work experience
 ======
-* Jan 2023 - present: postdoc scholar
+* Oct 2025 - present: postdoc scholar
+  * Institute of Basic Sciences, Seoul National University
+* Jan 2023 - Sep 2025: postdoc scholar
   * Scripps Institution of Oceanography, UC San Diego
   
 <!--
